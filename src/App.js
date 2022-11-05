@@ -18,3 +18,5 @@ export default App;
 
 // BrowserRouter : HTML5를 지원하는 브라우저의 주소를 감지 한다.
 // HashRouter 해시 주소(http://goddaehee.tistory.com/#test )를 감지 한다.
+// crtl + space 를 눌리면 만든 파일의 주소 자동 지정 가능
+// 
